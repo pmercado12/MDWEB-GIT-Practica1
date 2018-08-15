@@ -1,0 +1,26 @@
+diff --git a/readme b/README.md
+similarity index 100%
+rename from readme
+rename to README.md
+diff --git a/assets/css/styles.css b/assets/css/styles.css
+new file mode 100644
+index 0000000..e69de29
+diff --git a/assets/img/img1.jpg b/assets/img/img1.jpg
+new file mode 100644
+index 0000000..310ad84
+Binary files /dev/null and b/assets/img/img1.jpg differ
+diff --git a/assets/img/img2.jpg b/assets/img/img2.jpg
+new file mode 100644
+index 0000000..cdc4793
+Binary files /dev/null and b/assets/img/img2.jpg differ
+diff --git a/assets/js/main.js b/assets/js/main.js
+new file mode 100644
+index 0000000..e69de29
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..e583560
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1 @@
++<p>es un gran sistema de versiones, mejor que svn ;)</p>
+

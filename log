@@ -1,0 +1,67 @@
+commit f40e7033aea0feb64bce6db99a5a9473cc8d2aa5 (HEAD -> master)
+Author: Pedro Mercado <zafirapeter3@gmail.com>
+Date:   Tue Aug 14 20:16:05 2018 -0400
+
+    modificado
+
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 7f998175ab136d5995ff250caa00418f51836397
+Author: Pedro Mercado <zafirapeter3@gmail.com>
+Date:   Tue Aug 14 20:14:42 2018 -0400
+
+    index.html
+
+ index.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 69d48da4e632b54f9ae8feca921d89ba3e469563
+Author: Pedro Mercado <zafirapeter3@gmail.com>
+Date:   Tue Aug 14 20:13:57 2018 -0400
+
+    Cambio de estructura de archivos
+
+ {css => assets/css}/styles.css    |   0
+ assets/img/img1.jpg               | Bin 0 -> 1432212 bytes
+ {imagenes => assets/img}/img2.jpg | Bin
+ {js => assets/js}/main.js         |   0
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 3f074c97e8a9f285789c478f75fc0eeff353ef3c
+Author: Pedro Mercado <zafirapeter3@gmail.com>
+Date:   Tue Aug 14 20:11:01 2018 -0400
+
+    img2
+
+ imagenes/img2.jpg | Bin 0 -> 781886 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ca4790836e6eacaea3c8926f72ed677e90f35084
+Author: Pedro Mercado <zafirapeter3@gmail.com>
+Date:   Tue Aug 14 20:06:45 2018 -0400
+
+    js y css
+
+ css/styles.css | 0
+ js/main.js     | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit daa70c319c2289d8d523e05ad47ee5a460b94262
+Author: Pedro Mercado <zafirapeter3@gmail.com>
+Date:   Tue Aug 14 19:59:31 2018 -0400
+
+    Cambio de nombre
+
+ readme => README.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit fe183617057c89e21541d0dcdac251070bc8b74b
+Author: Pedro Mercado <zafirapeter3@gmail.com>
+Date:   Tue Aug 14 19:57:37 2018 -0400
+
+    Commit Inicial
+
+ readme | 1 +
+ 1 file changed, 1 insertion(+)
+
